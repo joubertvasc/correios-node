@@ -1,0 +1,27 @@
+{
+  "name": "correios-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joubertvasc/correios-node.git"
+  },
+  "keywords": [],
+  "author": "Joubert Vasconcelos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joubertvasc/correios-node/issues"
+  },
+  "homepage": "https://github.com/joubertvasc/correios-node#readme",
+  "dependencies": {
+    "easy-soap-request": "^3.2.0",
+    "xml-mapping": "^1.7.1"
+  }
+}
