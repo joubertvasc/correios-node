@@ -23,5 +23,6 @@
   "dependencies": {
     "easy-soap-request": "^3.2.0",
     "xml-mapping": "^1.7.1"
-  }
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
